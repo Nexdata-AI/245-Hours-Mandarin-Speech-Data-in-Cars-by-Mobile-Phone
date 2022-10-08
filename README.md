@@ -1,8 +1,10 @@
 # 245-Hours-Mandarin-Speech-Data-in-Cars-by-Mobile-Phone
-https://www.datatang.ai/datasets/27
+
 
 ## Description
 695 Chinese native speakers participated in the recording, with 245 hours of valid data, covering many regions of the country. The recording was carried out in the car environment, covering various scenarios such as different road types, different vehicle models, window opening and closing situations, whether music was turned on or not, etc.
+
+For more details, please refer to the link: https://bit.ly/3Ca7n1i
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, noise symbols
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
