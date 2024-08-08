@@ -4,7 +4,7 @@
 ## Description
 695 Chinese native speakers participated in the recording, with 245 hours of valid data, covering many regions of the country. The recording was carried out in the car environment, covering various scenarios such as different road types, different vehicle models, window opening and closing situations, whether music was turned on or not, etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/27?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/27?source=Github
 
 
 ## Format
